@@ -52,3 +52,4 @@ Spring Boot 3 + Vue 3 的 AI 文献阅读助手项目，帮助用户生成文献
 // guard against empty input
 // guard against empty input
 // clarify the control flow
+// drop an unused branch
